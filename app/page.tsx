@@ -40,10 +40,10 @@ export default function Home() {
               <div className="text-center">
                 <Zap className="w-16 h-16 text-yellow-300 mx-auto mb-4" />
                 <h2 className="text-2xl font-bold text-white mb-3">
-                  Juego 2
+                  Triqui
                 </h2>
                 <p className="text-blue-100 text-sm mb-4">
-                  Próximamente...
+                  Triqui Traca Telas
                 </p>
                 <div className="bg-white/20 rounded-lg px-4 py-2 inline-block">
                   <span className="text-white font-bold">Jugar →</span>
@@ -58,10 +58,10 @@ export default function Home() {
               <div className="text-center">
                 <Gamepad2 className="w-16 h-16 text-yellow-300 mx-auto mb-4" />
                 <h2 className="text-2xl font-bold text-white mb-3">
-                  Juego 3
+                  Conecta 4
                 </h2>
                 <p className="text-green-100 text-sm mb-4">
-                  Próximamente...
+                  Conecta una linea de 4 bolas diagonal, vertical, horizontal, hexagonal.
                 </p>
                 <div className="bg-white/20 rounded-lg px-4 py-2 inline-block">
                   <span className="text-white font-bold">Jugar →</span>
